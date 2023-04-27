@@ -1,0 +1,24 @@
+#blok1_Chustak, #blok2_Chustak, #blok3_Chustak {
+  background-color: green;
+  width: 604px;
+  font-size: 10mm;
+}
+
+#blok1_Chustak:hover {
+  background-color: sliver;
+  font-size: 19,75mm;
+}
+
+#blok2_Chustak:hover {
+  background-color: orange;
+  font-size: 19,75mm;
+}
+
+#blok3_Chustak:hover {
+  background-color: light green;
+  font-size: 19,75mm;
+}
+/*
+"hover" to pseudoklasa używana w CSS, która pozwala na zdefiniowanie stylów dla elementu po najechaniu na niego kursorem myszy.
+Maciek Chustak
+*/
